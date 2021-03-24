@@ -1,0 +1,47 @@
+_repo: Utazas-a-fold-kozpontja-fele-2-resz_64539
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Beöthy, Leo
+    aliases:
+    - Beothy, Leo
+    - Beoethy, Leo
+    - Beöthy, Leó
+    birthdate: 1839
+    deathdate: 1886
+    gutenberg_agent_id: '52938'
+    url: http://www.gutenberg.org/2009/agents/52938
+    wikipedia: https://hu.wikipedia.org/wiki/Be%C3%B6thy_Le%C3%B3
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: 'Translation of second part of: Voyage au centre de la terre.'
+gutenberg_issued: '2021-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64539'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Earth (Planet) -- Core -- Fiction'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Utazás a föld központja felé (2. rész)
+url: http://www.gutenberg.org/ebooks/64539
