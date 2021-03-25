@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '52938'
     url: http://www.gutenberg.org/2009/agents/52938
     wikipedia: https://hu.wikipedia.org/wiki/Be%C3%B6thy_Le%C3%B3
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -28,6 +31,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: 'Translation of second part of: Voyage au centre de la terre.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64539#Utazas-a-fold-kozpontja-fele-2-resz
 gutenberg_issued: '2021-02-13'
 gutenberg_type: Text
 identifiers:
